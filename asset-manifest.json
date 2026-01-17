@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/X-O-Game/static/css/main.2e876af4.css",
+    "main.js": "/X-O-Game/static/js/main.5f286a1d.js",
+    "static/js/453.7fa219df.chunk.js": "/X-O-Game/static/js/453.7fa219df.chunk.js",
+    "index.html": "/X-O-Game/index.html",
+    "main.2e876af4.css.map": "/X-O-Game/static/css/main.2e876af4.css.map",
+    "main.5f286a1d.js.map": "/X-O-Game/static/js/main.5f286a1d.js.map",
+    "453.7fa219df.chunk.js.map": "/X-O-Game/static/js/453.7fa219df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e876af4.css",
+    "static/js/main.5f286a1d.js"
+  ]
+}
